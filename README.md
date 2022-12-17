@@ -12,5 +12,6 @@ The external functions used in the manuscript and JSNMF can be found in the fold
    "parameter_selection.m": parameters selection for HONMF. <br>
    "parameter_selection_2views.m": parameters selection for OrthNMF_2views.m. <br>
    "sil.py": computing silhouette scores for clustering obtained from each method <br>
+   "tutorial.m": a step-by-step tutorial for implementing HONMF, including visualization, parameter sensitive anslysis and so on.<br>
 
 2. Reference
